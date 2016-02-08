@@ -168,6 +168,6 @@ $lang['def'] = array(
   "lang-en" => "en",
   "lang-fr" => "fr",
   "lang-es" => "es",
-  "meta-img-url" => "https://fwd.media/images/fwd-media-live-blog.png"
+  "meta-img-url" => "images/fwd-media-live-blog.png"
 );
 ?>
