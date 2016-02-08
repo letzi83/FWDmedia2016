@@ -37,7 +37,7 @@ foreach($lang[$lselect] as $key => $value) {
 
 ?>
 	<head>
-		<title><FWD:media></title>
+		<title><?php echo $l['meta-title-tag']; ?></title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -46,23 +46,32 @@ foreach($lang[$lselect] as $key => $value) {
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
     <link rel="icon" type="image/ico" href="favicon.ico"/>
     <link href='//fonts.googleapis.com/css?family=Roboto:400,300,300italic|Roboto+Slab:400,700,300&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+    
     <!-- General Metatags and social -->
+    <meta name="description" content="<?php echo $l['meta-description']; ?>">
+    <meta name="keywords" content="<?php echo $l['meta-keywords']; ?>">
+    <meta name="author" content="<?php echo $l['meta-copyright']; ?>">
     <meta name="copyright" content="<?php echo $l['meta-copyright']; ?>" />
     <meta name="DC.title" content="<?php echo $l['meta-title']; ?>" />
-    <meta property="og:title" content="<?php echo $l['meta-description']; ?>">
+    
+    <meta property="og:title" content="<?php echo $l['meta-title']; ?>">
     <meta property="og:site_name" content="<?php echo $l['meta-title']; ?>" />
-    <meta property="og:url" content="https://fwd.media/">
+    <meta property="og:url" content="<?php echo $l['meta-site-url']; ?>">
     <meta property="og:image" content="<?php echo $l['meta-img-url']; ?>"/>
     <meta property="og:description" content="<?php echo $l['meta-description']; ?>" />
-    <meta property="article:author" content="https://fwd.media/" />
+    <meta property="og:type" content="website" />
+    <meta property="article:author" content="<?php echo $l['meta-author']; ?>" />
     <meta property="article:publisher" content="https://www.facebook.com/Sourcefabric" />
-    <meta name="twitter:card" content="summary">
+    
+    <!-- twitter card -->
+    <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@sourcefabric">
     <meta name="twitter:creator" content="@sourcefabric">
     <meta name="twitter:title" content="<?php echo $l['meta-title']; ?>">
-    <meta name="twitter:domain" content="https://fwd.media//">
-    <meta property="twitter:image" content="<?php echo $l['meta-img-url']; ?>">
     <meta name="twitter:description" content="<?php echo $l['meta-description']; ?>">
+    <meta name="twitter:image" content="<?php echo $l['meta-img-url']; ?>">
+    <meta name="twitter:domain" content="<?php echo $l['meta-site-url']; ?>">
+    
     <meta itemprop="name" content="<?php echo $l['meta-title']; ?>">
     <meta itemprop="image" content="<?php echo $l['meta-img-url']; ?>">
     <meta itemprop="description" content="<?php echo $l['meta-description']; ?>">

@@ -160,14 +160,19 @@ $lang['def'] = array(
   "nav-contact" => "Contact us",
 
 /* metatags */
-  "meta-copyright" => "&lt;FWD:media&gt; by Sourcefabric",
+  "meta-title-tag" => "Add live reporting to your site. FWD:media",
+  "meta-site-url" => "https://fwd.media/",
+  "meta-copyright" => "FWD:media by Sourcefabric",
+  "meta-author" => "Sourcefabric",
   "meta-title" => "Add live reporting to your site. Apply now.",
-  "meta-description" => "Sourcefabric's &lt;FWD:media&gt; initiative provides free live blogging services and support to a selected number of independent web projects in journalism and activism.",
+  "meta-description" => "Sourcefabric's FWD:media initiative provides free live blogging services and support to a selected number of independent web projects in journalism and activism.",
+  
 
 /* general across all languages */  
   "lang-en" => "en",
   "lang-fr" => "fr",
   "lang-es" => "es",
-  "meta-img-url" => "images/fwd-media-live-blog.png"
+  "meta-img-url" => "images/fwd-media-live-blog.png",
+  "meta-keywords" => "live, reporting, blogging, journalism, apply, free"
 );
 ?>
