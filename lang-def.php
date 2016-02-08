@@ -1,6 +1,5 @@
 <?php
 $lang['def'] = array(
-
   "sourcefabricsinitiative" => "Sourcefabric's &lt;FWD:media&gt; initiative provides<br/>
     free live blogging services and support to a<br/>
     selected number of independent web projects in<br/>
@@ -141,6 +140,7 @@ $lang['def'] = array(
   
 /* Buttons */
   "btn-applynow" => "Apply now",
+  "btn-applynowlink" => "Open application form",
   "btn-more" => "Learn more",
   "btn-checklb" => "Check out Live Blog.",
 
@@ -165,13 +165,7 @@ $lang['def'] = array(
   "meta-copyright" => "FWD:media by Sourcefabric",
   "meta-author" => "Sourcefabric",
   "meta-title" => "Add live reporting to your site. Apply now.",
-  "meta-description" => "Sourcefabric's FWD:media initiative provides free live blogging services and support to a selected number of independent web projects in journalism and activism.",
+  "meta-description" => "Sourcefabric's FWD:media initiative provides free live blogging services and support to a selected number of independent web projects in journalism and activism."
 
-/* general across all languages */  
-  "lang-en" => "en",
-  "lang-fr" => "fr",
-  "lang-es" => "es",
-  "meta-img-url" => "images/fwd-media-live-blog.png",
-  "meta-keywords" => "live, reporting, blogging, journalism, apply, free"
 );
 ?>
