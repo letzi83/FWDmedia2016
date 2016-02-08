@@ -145,7 +145,7 @@ $lang['en'] = array(
   "btn-checklb" => "Check out Live Blog.",
 
 /* Header */
-  "head-title" => "EN &lt;FWD:media&gt;",
+  "head-title" => "&lt;FWD:media&gt;",
   "head-claim" => "Add live reporting to your site.",
 
 

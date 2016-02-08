@@ -1,3 +1,11 @@
+<!DOCTYPE HTML>
+<!--
+  2016 Sourcefabric / www.sourcefabric.org
+  Find the site sources on github: https://github.com/MiczFlor/FWDmedia2016
+  Free for personal and commercial use under the CCA 3.0 license 
+  Site built on top of the theme Spectral by HTML5 UP / html5up.net | @n33co / html5up.net/license
+-->
+<html>
 <?php
 
 //////////////////////////////////////
@@ -24,23 +32,10 @@ foreach($lang[$lselect] as $key => $value) {
   $l[$key] = $value;
 }
 
-// multilingual items for theme across all languages
-$l['lang-en'] = "en";
-$l['lang-fr'] = "fr";
-$l['lang-es'] = "es";
-
 // end of MULTILINGUAL STUFF
 //////////////////////////////////////
 
 ?>
-<!DOCTYPE HTML>
-<!--
-  2016 Sourcefabric / www.sourcefabric.org
-  Find the site sources on github: https://github.com/MiczFlor/FWDmedia2016
-	Free for personal and commercial use under the CCA 3.0 license 
-	Site built on top of the theme Spectral by HTML5 UP / html5up.net | @n33co / html5up.net/license
--->
-<html>
 	<head>
 		<title><FWD:media></title>
 		<meta charset="utf-8" />
@@ -51,6 +46,26 @@ $l['lang-es'] = "es";
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
     <link rel="icon" type="image/ico" href="favicon.ico"/>
     <link href='//fonts.googleapis.com/css?family=Roboto:400,300,300italic|Roboto+Slab:400,700,300&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+    <!-- General Metatags and social -->
+    <meta name="copyright" content="<?php echo $l['meta-copyright']; ?>" />
+    <meta name="DC.title" content="<?php echo $l['meta-title']; ?>" />
+    <meta property="og:title" content="<?php echo $l['meta-description']; ?>">
+    <meta property="og:site_name" content="<?php echo $l['meta-title']; ?>" />
+    <meta property="og:url" content="https://fwd.media/">
+    <meta property="og:image" content="<?php echo $l['meta-img-url']; ?>"/>
+    <meta property="og:description" content="<?php echo $l['meta-description']; ?>" />
+    <meta property="article:author" content="https://fwd.media/" />
+    <meta property="article:publisher" content="https://www.facebook.com/Sourcefabric" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@sourcefabric">
+    <meta name="twitter:creator" content="@sourcefabric">
+    <meta name="twitter:title" content="<?php echo $l['meta-title']; ?>">
+    <meta name="twitter:domain" content="https://fwd.media//">
+    <meta property="twitter:image" content="<?php echo $l['meta-img-url']; ?>">
+    <meta name="twitter:description" content="<?php echo $l['meta-description']; ?>">
+    <meta itemprop="name" content="<?php echo $l['meta-title']; ?>">
+    <meta itemprop="image" content="<?php echo $l['meta-img-url']; ?>">
+    <meta itemprop="description" content="<?php echo $l['meta-description']; ?>">
 	</head>
 	<body class="landing">
 
@@ -92,7 +107,7 @@ $l['lang-es'] = "es";
 							<h2><?php echo $l['head-title']; ?></h2>
 							<p><?php echo $l['head-claim']; ?></p>
 							<ul class="actions">
-								<li><a href="#applynow" class="button special"><?php echo $l['btn-applynow']; ?></a></li>
+								<li><a href="#applynow" class="button special scrolly"><?php echo $l['btn-applynow']; ?></a></li>
 							</ul>
 						</div>
 						<a href="#start" class="more scrolly"><?php echo $l['btn-more']; ?></a>
@@ -335,12 +350,12 @@ $l['lang-es'] = "es";
 			<script src="assets/js/util.js"></script>
 			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
 			<script src="assets/js/main.js"></script>
-<script type="text/javascript">
-  $('#drawers').find('h4').click(function(){
-    $(this).next().slideToggle();
-    $("#drawers div").not($(this).next()).slideUp();
-  });
-</script>
+      <script type="text/javascript">
+        $('#drawers').find('h4').click(function(){
+          $(this).next().slideToggle();
+          $("#drawers div").not($(this).next()).slideUp();
+        });
+      </script>
 
 	</body>
 </html>

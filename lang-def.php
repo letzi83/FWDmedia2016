@@ -148,7 +148,6 @@ $lang['def'] = array(
   "head-title" => "&lt;FWD:media&gt;",
   "head-claim" => "Add live reporting to your site.",
 
-
 /* Navigation */
   "nav-menu" => "Menu",
   "nav-home" => "Home",
@@ -158,6 +157,17 @@ $lang['def'] = array(
   "nav-who" => "Who should apply",
   "nav-apply" => "Apply now",
   "nav-faq" => "FAQ",
-  "nav-contact" => "Contact us"
+  "nav-contact" => "Contact us",
+
+/* metatags */
+  "meta-copyright" => "&lt;FWD:media&gt; by Sourcefabric",
+  "meta-title" => "Add live reporting to your site. Apply now.",
+  "meta-description" => "Sourcefabric's &lt;FWD:media&gt; initiative provides free live blogging services and support to a selected number of independent web projects in journalism and activism.",
+
+/* general across all languages */  
+  "lang-en" => "en",
+  "lang-fr" => "fr",
+  "lang-es" => "es",
+  "meta-img-url" => "https://fwd.media/images/fwd-media-live-blog.png"
 );
 ?>
