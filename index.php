@@ -35,9 +35,10 @@ $l['lang-es'] = "es";
 ?>
 <!DOCTYPE HTML>
 <!--
-	Design based on theme Spectral by HTML5 UP
-	html5up.net | @n33co
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+  2016 Sourcefabric / www.sourcefabric.org
+  Find the site sources on github: https://github.com/MiczFlor/FWDmedia2016
+	Free for personal and commercial use under the CCA 3.0 license 
+	Site built on top of the theme Spectral by HTML5 UP / html5up.net | @n33co / html5up.net/license
 -->
 <html>
 	<head>
@@ -49,6 +50,7 @@ $l['lang-es'] = "es";
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
     <link rel="icon" type="image/ico" href="favicon.ico"/>
+    <link href='//fonts.googleapis.com/css?family=Roboto:400,300,300italic|Roboto+Slab:400,700,300&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 	</head>
 	<body class="landing">
 
