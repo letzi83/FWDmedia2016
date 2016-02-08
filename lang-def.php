@@ -166,7 +166,6 @@ $lang['def'] = array(
   "meta-author" => "Sourcefabric",
   "meta-title" => "Add live reporting to your site. Apply now.",
   "meta-description" => "Sourcefabric's FWD:media initiative provides free live blogging services and support to a selected number of independent web projects in journalism and activism.",
-  
 
 /* general across all languages */  
   "lang-en" => "en",
