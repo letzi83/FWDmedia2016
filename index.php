@@ -3,12 +3,12 @@
 //////////////////////////////////////
 // MULTILINGUAL STUFF
 
-// set language to default to make sure there is something to work with
+// read default language to make sure there is something to work with
 include("lang-def.php");
-$l = $lang['def'];
+$l = $lang['def']; // $l is the array for multilingual items
 
-// set default language if none chosen
-$lselect = "en"; 
+// set default user language if none chosen
+$lselect = "en";
 
 // read language from URL
 if(isset($_GET["l"])) {
@@ -18,12 +18,10 @@ if(isset($_GET["l"])) {
   }
 } 
 
-// now read the language one by one to overwrite default values 
+// now read the language items one by one to overwrite default values 
 include("lang-".$lselect.".php");
-//print_r($lang);
 foreach($lang[$lselect] as $key => $value) {
   $l[$key] = $value;
-  //print "<br>".$key ." = ". $value;
 }
 
 // multilingual items for theme across all languages
