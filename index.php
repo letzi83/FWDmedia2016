@@ -73,10 +73,10 @@ $l['lang-es'] = "es";
 											<li><a href="#start" class="scrolly"><?php echo $l['nav-start']; ?></a></li>
 											<li><a href="#whatislb" class="scrolly"><?php echo $l['nav-lbabout']; ?></a></li>
 											<li><a href="#weprovide" class="scrolly"><?php echo $l['nav-what']; ?></a></li>
-											<li><a href="#whocanapply"><?php echo $l['nav-who']; ?></a></li>
-											<li><a href="#apply"><?php echo $l['nav-apply']; ?></a></li>
-											<li><a href="#faq"><?php echo $l['nav-faq']; ?></a></li>
-											<li><a href="#contact"><?php echo $l['nav-contact']; ?></a></li>
+											<li><a href="#whoapply" class="scrolly"><?php echo $l['nav-who']; ?></a></li>
+											<li><a href="#applynow" class="scrolly"><?php echo $l['nav-apply']; ?></a></li>
+											<li><a href="#faq" class="scrolly"><?php echo $l['nav-faq']; ?></a></li>
+											<li><a href="#contact" class="scrolly"><?php echo $l['nav-contact']; ?></a></li>
 										</ul>
 									</div>
 								</li>
@@ -90,13 +90,13 @@ $l['lang-es'] = "es";
 							<h2><?php echo $l['head-title']; ?></h2>
 							<p><?php echo $l['head-claim']; ?></p>
 							<ul class="actions">
-								<li><a href="#" class="button special"><?php echo $l['btn-applynow']; ?></a></li>
+								<li><a href="#applynow" class="button special"><?php echo $l['btn-applynow']; ?></a></li>
 							</ul>
 						</div>
 						<a href="#start" class="more scrolly"><?php echo $l['btn-more']; ?></a>
 					</section>
 
-				<!-- One -->
+				<!-- First page -->
 					<section id="start" class="wrapper style1 special">
 						<div class="inner">
 							<header class="major">
@@ -282,7 +282,7 @@ $l['lang-es'] = "es";
 					
 
 				<!-- contactusinfo -->
-					<section id="contactfooter" class="wrapper style2 special">
+					<section id="contact" class="wrapper style2 special">
 						<div class="inner">
 							<header class="major">
 								<h2 class="upperc"><?php echo $l['bottomcontact']; ?></h2>
