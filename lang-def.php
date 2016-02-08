@@ -1,5 +1,5 @@
 <?php
-$lang['en'] = array(
+$lang['def'] = array(
 
   "sourcefabricsinitiative" => "Sourcefabric's &lt;FWD:media&gt; initiative provides<br/>
     free live blogging services and support to a<br/>
@@ -145,7 +145,7 @@ $lang['en'] = array(
   "btn-checklb" => "Check out Live Blog.",
 
 /* Header */
-  "head-title" => "EN &lt;FWD:media&gt;",
+  "head-title" => "&lt;FWD:media&gt;",
   "head-claim" => "Add live reporting to your site.",
 
 
