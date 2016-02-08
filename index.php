@@ -12,7 +12,7 @@
 // MULTILINGUAL STUFF
 
 // read default language to make sure there is something to work with
-include("lang-def.php");
+include("lang/lang-def.php");
 $l = $lang['def']; // $l is the array for multilingual items
 
 // set default user language if none chosen
@@ -21,19 +21,19 @@ $lselect = "en";
 // read language from URL
 if(isset($_GET["l"])) {
   // see if there is a matching language file
-  if(file_exists("lang-".$_GET["l"].".php")) {
+  if(file_exists("lang/lang-".$_GET["l"].".php")) {
     $lselect = $_GET["l"]; 
   }
 } 
 
 // now read the language items one by one to overwrite default values 
-include("lang-".$lselect.".php");
+include("lang/lang-".$lselect.".php");
 foreach($lang[$lselect] as $key => $value) {
   $l[$key] = $value;
 }
 
 // get universal items across all languages
-include("lang-universal.php");
+include("lang/lang-universal.php");
 foreach($lang['universal'] as $key => $value) {
   $l[$key] = $value;
 }
