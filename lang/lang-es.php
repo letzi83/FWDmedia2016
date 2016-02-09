@@ -154,7 +154,6 @@ $lang[$langid] = array(
 
 /* metatags */
   "meta-title-tag" => "Add live reporting to your site. FWD:media",
-  "meta-site-url" => "https://fwd.media/",
   "meta-copyright" => "FWD:media by Sourcefabric",
   "meta-author" => "Sourcefabric",
   "meta-title" => "Add live reporting to your site. Apply now.",

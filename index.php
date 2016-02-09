@@ -63,7 +63,7 @@ foreach($lang['universal'] as $key => $value) {
     <meta property="og:title" content="<?php echo $l['meta-title']; ?>">
     <meta property="og:site_name" content="<?php echo $l['meta-title']; ?>" />
     <meta property="og:url" content="<?php echo $l['meta-site-url']; ?>">
-    <meta property="og:image" content="<?php echo $l['meta-img-url']; ?>"/>
+    <meta property="og:image" content="<?php echo $l['meta-site-url']; ?>/<?php echo $l['meta-img-url']; ?>"/>
     <meta property="og:description" content="<?php echo $l['meta-description']; ?>" />
     <meta property="og:type" content="website" />
     <meta property="article:author" content="<?php echo $l['meta-author']; ?>" />
@@ -79,7 +79,7 @@ foreach($lang['universal'] as $key => $value) {
     <meta name="twitter:domain" content="<?php echo $l['meta-site-url']; ?>">
     
     <meta itemprop="name" content="<?php echo $l['meta-title']; ?>">
-    <meta itemprop="image" content="<?php echo $l['meta-img-url']; ?>">
+    <meta itemprop="image" content="<?php echo $l['meta-site-url']; ?>/<?php echo $l['meta-img-url']; ?>">
     <meta itemprop="description" content="<?php echo $l['meta-description']; ?>">
 	</head>
 	<body class="landing">
