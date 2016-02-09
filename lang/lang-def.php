@@ -1,5 +1,12 @@
 <?php
-$lang['def'] = array(
+$langid = "def"; // the language short code for this version
+$lang[$langid] = array(
+
+/* Header */
+  "head-title" => "&lt;FWD:media&gt;",
+  "head-claim" => "Add live reporting to your site.",
+
+/* what is live blog */
   "sourcefabricsinitiative" => "Sourcefabric's &lt;FWD:media&gt; initiative provides<br/>
     free live blogging services and support to a<br/>
     selected number of independent web projects in<br/>
@@ -21,6 +28,7 @@ $lang['def'] = array(
     software). It is versatile, flexible and it can incorporate
     text, images, social media, videos, audio, etc.",
     
+/* what we provide */
   "weprovide" => "What we provide",
   "weprovideinfo" => "Here's what you can expect when you partner up with us to use Live Blog",
   "weprovide-title-a" => "We get you started",
@@ -61,7 +69,8 @@ $lang['def'] = array(
     can help you develop your communication
     strategy and we share our networks for
     outreach.",
-    
+
+/* what we do not provide */
   "notprovide" => "What we do not offer <br/> within &lt;FWD:media&gt; *",
   "notprovideinfo" => "* If you are in need of any of the above, feel free to ask us! We might be able to advise you.",
   "notprovide-a" => "Financial support or grants",
@@ -69,7 +78,8 @@ $lang['def'] = array(
   "notprovide-c" => "Tech equipment",
   "notprovide-d" => "New software features",
   "notprovide-e" => "Website redesign",
-  
+
+/* who can apply */
   "whoapply" => "Who should apply",
   "whoapplyinfo" => "We want to work with you, but sometimes, that's not enough. Here's a
     checklist to see if we are a good match.",
@@ -103,26 +113,13 @@ $lang['def'] = array(
   "applynow" => "Apply now",
   "applynowinfo" => "If you have arrived until here and still think we could work well together,
     fill in our application form. If you still have questions, see our FAQ or get in touch.",
-    
+
+/* FAQ */
   "faq" => "Frequently asked questions",
   "faqinfo" => "Here you can find some answers to key questions you might have. Any
     other question? Need more support? Get in touch!",
-  "faq-a-q" => "Q: What are past examples of similar project you have supported?",
-  "faq-a-a" => "A: At Sourcefabric, we've worked on a range of similar projects in the past. From large media organisations using Live
-    Blog to cover breaking news or current events to informal groups of freelancers looking to tailor their global/local
-    reporting; to organisations looking for a solution for crisis reporting from the ground.",
-  "faq-b-q" => "Q: What is the time period for implementation of the project",
-  "faq-b-a" => "A: Setting up Live Blog doesn’t take more than 5 minutes. A bit more time might be needed for you to organise your
-    resources and to get training, but all in all, you can be set to go within a week or two. The length of time we work with
-    a selected project will vary, but you should expect this to be a 6 to 12 month commitment at most. If your project
-    would continue to benefit from our support and engagement we are open to extending collaboration outside of this
-    call timespan.",
-  "faq-c-q" => "Q: What kind of financial support do you offer?",
-  "faq-c-a" => "A: We have already said that there is no financial support or grants included in the <FWD:media> initiative. The
-    resources we are sharing will focus on giving you access to a great tool (Live Blog) and securing expertise. We do not
-    offer financial support or grants.Are you willing to apply for joint funding with us? Joint funding is a win-win
-    situation: both sides benefit. And we can work with you to locate and apply for the right kind of grants.",
-  
+
+/* contact */
   "bottomcontact" => "Contact us",
   "bottomcontactinfo" => "Still have questions? Contact us at <a href='mailto:fwdmedia@sourcefabric.org'>fwdmedia@sourcefabric.org</a>",
   "bottomcontact-title-a" => "Find us on other channels",
@@ -144,10 +141,6 @@ $lang['def'] = array(
   "btn-more" => "Learn more",
   "btn-checklb" => "Check out Live Blog.",
 
-/* Header */
-  "head-title" => "&lt;FWD:media&gt;",
-  "head-claim" => "Add live reporting to your site.",
-
 /* Navigation */
   "nav-menu" => "Menu",
   "nav-home" => "Home",
@@ -168,4 +161,29 @@ $lang['def'] = array(
   "meta-description" => "Sourcefabric's FWD:media initiative provides free live blogging services and support to a selected number of independent web projects in journalism and activism."
 
 );
+
+/* FAQ items */
+$lang[$langid]['arrays']['faq'][] = array(
+  "q" => "Q: What are past examples of similar project you have supported?",
+  "a" => "A: At Sourcefabric, we've worked on a range of similar projects in the past. From large media organisations using Live
+    Blog to cover breaking news or current events to informal groups of freelancers looking to tailor their global/local
+    reporting; to organisations looking for a solution for crisis reporting from the ground."
+);
+$lang[$langid]['arrays']['faq'][] = array(
+  "q" => "Q: What is the time period for implementation of the project",
+  "a" => "A: Setting up Live Blog doesn’t take more than 5 minutes. A bit more time might be needed for you to organise your
+    resources and to get training, but all in all, you can be set to go within a week or two. The length of time we work with
+    a selected project will vary, but you should expect this to be a 6 to 12 month commitment at most. If your project
+    would continue to benefit from our support and engagement we are open to extending collaboration outside of this
+    call timespan."
+);
+$lang[$langid]['arrays']['faq'][] = array(
+  "q" => "Q: What kind of financial support do you offer?",
+  "a" => "A: We have already said that there is no financial support or grants included in the <FWD:media> initiative. The
+    resources we are sharing will focus on giving you access to a great tool (Live Blog) and securing expertise. We do not
+    offer financial support or grants.Are you willing to apply for joint funding with us? Joint funding is a win-win
+    situation: both sides benefit. And we can work with you to locate and apply for the right kind of grants."
+);
+
+
 ?>

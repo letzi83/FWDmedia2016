@@ -7,7 +7,6 @@
 -->
 <html>
 <?php
-
 //////////////////////////////////////
 // MULTILINGUAL STUFF
 
@@ -41,6 +40,7 @@ foreach($lang['universal'] as $key => $value) {
 // end of MULTILINGUAL STUFF
 //////////////////////////////////////
 
+//print "<pre>"; print_r($lang['def']); print "</pre>";
 ?>
 	<head>
 		<title><?php echo $l['meta-title-tag']; ?></title>
@@ -280,18 +280,15 @@ foreach($lang['universal'] as $key => $value) {
 								<h2><?php echo $l['faq']; ?></h2>
 								<p><?php echo $l['faqinfo']; ?></p>
 								<ul class="alt" id="drawers">
+<?php
+  foreach($l['arrays']['faq'] as $key => $pair) {
+    print"
                  <li>
-                    <h4><?php echo $l['faq-a-q']; ?></h4>
-                    <div style="display: none;"><?php echo $l['faq-a-a']; ?></div>
-                 </li>
-                 <li>
-                    <h4><?php echo $l['faq-b-q']; ?></h4>
-                    <div style="display: none;"><?php echo $l['faq-b-a']; ?></div>
-                 </li>
-                 <li>
-                    <h4><?php echo $l['faq-c-q']; ?></h4>
-                    <div style="display: none;"><?php echo $l['faq-c-a']; ?></div>
-                 </li>
+                    <h4>".$pair['q']."</h4>
+                    <div style=\"display: none;\">".$pair['a']."</div>
+                 </li>";
+  }
+?>
               </ul>
 						</div>
 					</section>
@@ -332,7 +329,7 @@ foreach($lang['universal'] as $key => $value) {
 						<ul class="copyright">
 							<li>
 							&copy; 2016 
-							<a href='https://www.sourcefabric.org/' target='_blank'>Sourcefabric z.ú.</a> 
+							<a href='https://www.sourcefabric.org/' target='_blank'>Sourcefabric</a> 
 							This work is licensed under a 
 							<a href='https://creativecommons.org/licenses/by/3.0/' target='_blank'>Creative Commons Attribution 3.0 Unported License</a>
 							</li>
