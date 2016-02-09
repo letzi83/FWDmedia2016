@@ -284,7 +284,7 @@ foreach($lang['universal'] as $key => $value) {
   foreach($l['arrays']['faq'] as $key => $pair) {
     print"
                  <li>
-                    <h4>".$pair['q']."</h4>
+                    <h4>".$pair['q']." &#x25BC;</h4>
                     <div style=\"display: none;\">".$pair['a']."</div>
                  </li>";
   }

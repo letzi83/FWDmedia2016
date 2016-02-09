@@ -3848,3 +3848,7 @@
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+	#drawers li:hover {
+	  cursor: pointer;
+	  background-color: #f5f5f5;
+	}
