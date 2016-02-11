@@ -24,7 +24,7 @@ $lang[$langid] = array(
   "spotlight-b" => "Live Blog can be easily embedded in your website. Simply paste the
     code and start spreading the news!",
   "spotlight-c" => "Easy to use, Live Blog is web-based which means that there is no need to install
-    any software. It is versatile, flexible and it can incorporate
+    any software. It is versatile, flexible and can incorporate
     text, images, social media, videos, audio and more.",
     
 /* what we provide */
@@ -32,7 +32,7 @@ $lang[$langid] = array(
   "weprovideinfo" => "Here's what you can expect when you partner up with us to use Live Blog",
   "weprovide-title-a" => "We get you started",
   "weprovide-info-a" => "You don't need any coding skills to start and run a
-    Live Blog project<FWD:media> project. We set you
+    Live Blog project. We set you
     up with short personal video training and
     have a number of fun tutorials to get you started. We also offer
     basic support throughout your project.",
@@ -47,24 +47,24 @@ $lang[$langid] = array(
     Sourcefabric offers a basic support
     package. This means a 2-4 hour start up
     training, including basic live reporting
-    coaching, if necessary.",
+    coaching if necessary.",
   "weprovide-title-d" => "We follow you throughout",
   "weprovide-info-d" => "Live Blog can be embedded in any website
     easily. We will guide you throughout your
-    project. We breathe journalism, we have
+    project. We breathe journalism and have
     experience in supporting live reporting
     worldwide.",
   "weprovide-title-e" => "We make you part of our community",
   "weprovide-info-e" => "Through our global community of partners,
     we give you access to advice and experience from seasoned
-    rganisations that can benefit all of us. We encourage discussion
+    organisations that can benefit all of us. We encourage discussion
     and mutual support and seek to continuously refine
     our software. We love hearing about
     improvement ideas from all members of the
     community.",
   "weprovide-title-f" => "We help you shine",
   "weprovide-info-f" => "We will provide you with ideas and tips
-    for ncreasing the visibility and outreach of your project. We
+    for increasing the visibility and outreach of your project. We
     can help you develop your communication
     strategy and share our networks for
     outreach.",
@@ -89,7 +89,7 @@ $lang[$langid] = array(
     match between Live Blog and your project and have a
     solid argument for why Live Blog can help.",
   "whoapply-b" => "You're working on the topics of independent media,
-    social change, youth empowerment or umanitarian aid. These are the areas where 
+    social change, youth empowerment or humanitarian aid. These are the areas where 
     we’d like to focus our efforts. If you are working
     on another type of social change project, please get in
     touch with us directly to talk more about possible
@@ -97,7 +97,7 @@ $lang[$langid] = array(
   "whoapply-c" => "How long has your project or organisation been running?
     It's not always a problem if you're brand new, but it helps
     if we can see some proof that you are sustainable.",
-  "whoapply-d" => "You are committed to actively useing Live Blog for your
+  "whoapply-d" => "You are committed to actively using Live Blog for your
     project and have already allocated human and
     technical resources to produce content to feed the
     (blog)s.",
@@ -136,7 +136,7 @@ $lang[$langid] = array(
   "btn-applynow" => "Apply now",
   "btn-applynowlink" => "Open application form",
   "btn-more" => "Learn more",
-  "btn-checklb" => "Check out Live Blog.",
+  "btn-checklb" => "Learn more about Live Blog.",
 
 /* Navigation */
   "nav-menu" => "Menu",
