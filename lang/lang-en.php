@@ -17,7 +17,7 @@ $lang[$langid] = array(
   "deadlinetxt" => "The first round of applications is open. Apply by 31 March 2016.",
   "biglb4fm" => "Live Blog for <br/> &lt;FWD:media&gt;",
   "biglb4fminfo" => "Live Blog helps journalists, reporters and<br>
-    organisations tell their stories as they unfold. <br>
+    organisations tell their stories as they unfold.",
   "spotlight-a" => "Live Blog was developed to provide media organisations with a tool for
     live reporting crisis or real-time events like natural disasters or breaking news. Whether from your desk or live from the event, 
     you can update your live blog in real-time.",
@@ -161,7 +161,7 @@ $lang[$langid] = array(
 /* FAQ items */
 $lang[$langid]['arrays']['faq'][] = array(
   "q" => "Q: What is FWD:Media?",
-  "a" => "A: &lt;FWD:media&gt;(read "forward media") is a media development iniative by Sourcefabric. Launched in 
+  "a" => "A: &lt;FWD:media&gt; (read \"forward media\") is a media development iniative by Sourcefabric. Launched in 
     2016, it's aim is to give publicity to Sourcefabric's work in supporting independent media initiatives worldwide."
 );
 $lang[$langid]['arrays']['faq'][] = array(
