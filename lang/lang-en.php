@@ -125,12 +125,11 @@ $lang[$langid] = array(
     to learn more about Sourcefabric.
     Follow us on 
     <a href='http://twitter.com/sourcefabric' target='_blank'>twitter</a>
-    for our thoughts about the open
+    for our thoughts on open
     source, journalism and innovation.",
-  "bottomcontact-title-b" => "Join out mailing list",
+  "bottomcontact-title-b" => "Join our mailing list",
   "bottomcontact-info-b" => "We'll send you updates about our work in a monthly
-    newsletter. We won't share your email address.
-    Promise.",
+    newsletter. We won't share your email address, we promise. <a href='http://eepurl.com/668U' target='_blank'>Sign up now.</a>",
   
 /* Buttons */
   "btn-applynow" => "Apply now",
@@ -178,15 +177,15 @@ $lang[$langid]['arrays']['faq'][] = array(
 );
 $lang[$langid]['arrays']['faq'][] = array(
   "q" => "Q: What are a few examples of similar project you have supported in the past?",
-  "a" => "A: We have experience working with a wide range of projects in the past. We've worked with large media organisations using Live
+  "a" => "A: We have experience working with a wide range of projects. We've worked with large media organisations using Live
     Blog to cover breaking news or current events, informal groups of freelancers looking to tailor their global/local
-    reporting and organisations looking for a solution for crisis reporting from the ground."
+    reporting and organisations looking for a solution to crisis reporting from the ground."
 );
 $lang[$langid]['arrays']['faq'][] = array(
   "q" => "Q: How long is the review process? When will I know the results?",
-  "a" => "A:  Our team will review your application nd respond within two weeks following the deadline. 
+  "a" => "A:  Our team will review your application and respond within two weeks following the deadline. 
     There will be at least four rounds of applications in 2016 and you're welcome to apply again if your
-    organisation/project didn't qualify he first time."
+    organisation/project didn't qualify the first time."
 );
 $lang[$langid]['arrays']['faq'][] = array(
   "q" => "Q: What is the time period for project implementation?",
@@ -200,7 +199,7 @@ $lang[$langid]['arrays']['faq'][] = array(
   "q" => "Q: What kind of financial support do you offer?",
   "a" => "A: There are no grants or financial support included in this initiative. Our version of financial support comes in the form 
   of access to a professional tool (Live Blog) with free managed hosting and access to one-on-one support.
-  If you are in need of additional financial support, ould you be willing to apply for joint funding with us? Joint funding is a win-win
+  If you are in need of additional financial support, would you be willing to apply for joint funding with us? Joint funding is a win-win
   situation: both sides benefit. We can work with you to locate and apply for the right kind of grants."
 );
 
