@@ -4,64 +4,59 @@ $lang[$langid] = array(
 
 /* Header */
   "head-title" => "FR &lt;FWD:media&gt;",
-  "head-claim" => "Add live reporting to your site",
+  "head-claim" => "Ajouter des reportages en direct sur votre site.",
 
 /* what is live blog */
-  "sourcefabricsinitiative" => "Sourcefabric's &lt;FWD:media&gt; initiative provides<br/>
-    free live blogging services and support to a<br/>
-    selected number of independent web projects in<br/>
-    journalism and activism.",
-  "rumediaorg" => "Are you a media organisation or NGO working to integrate technology 
-    into a journalism or reporting project and looking for a live storytelling tool? 
-    We can outfit you with the technology for free and help you get started.",
-  "deadlinetxt" => "The first round of applications is open. Apply by 31 March 2016.",
-  "biglb4fm" => "Live Blog for <br/> &lt;FWD:media&gt;",
-  "biglb4fminfo" => "Live Blog helps journalists, reporters and<br>
-    organisations tell their stories as they unfold.",
-  "spotlight-a" => "Live Blog was developed to provide media organisations with a tool for
-    live reporting crisis or real-time events like natural disasters or breaking news. Whether from your desk or live from the event, 
-    you can update your live blog in real-time.",
-  "spotlight-b" => "Live Blog can be easily embedded in your website. Simply paste the
-    code and start spreading the news!",
-  "spotlight-c" => "Easy to use, Live Blog is web-based which means that there is no need to install
-    any software. It is versatile, flexible and can incorporate
-    text, images, social media, videos, audio and more.",
+  "sourcefabricsinitiative" => "L’initiative <FWD:media> de Sourcefabric a pour objectif<br/>
+    de fournir un service gratuit de blog en direct et de soutenir<br/>
+    un nombre limité de projets web journalistiques et activistes indépendants.",
+  "rumediaorg" => "Êtes-vous une organisation de média ou une ONG cherchant à incorporer des technologies 
+  dans un projet journalistique ou de reportage et à la recherche d’un outil de narration en direct? 
+  Nous pouvons vous offrir gratuitement la technologie qui vous permettra de démarrer. 
+  Suivez ce lien pour en apprendre plus sur Live Blog.",
+  "deadlinetxt" => "Le premier tour d’applications est ouvert. Postuler avant le 31 Mars 2016.",
+  "biglb4fm" => "Live Blog de <br/> &lt;FWD:media&gt;",
+  "biglb4fminfo" => "Live Blog aide les journalistes, les reporters et<br>
+   les organisations à raconter leurs actualités en temps réel.",
+  "spotlight-a" => "Live Blog a été conçu  pour offrir aux  média  un outil leur permettant de transmettre
+  en temps réel les reportages tels que  les crises, les catastrophes naturelles ou les nouvelles de dernière minute. 
+  Que ce soit à partir de votre bureau ou en direct de l'événement, vous pouvez mettre à jour votre blog en temps réel.",
+  "spotlight-b" => "Live Blog peut être facilement intégré dans votre site web. 
+  Il suffit de coller le code et commencer à répandre les nouvelles!",
+  "spotlight-c" => "Facile à utiliser, Live Blog est un site web ce qui signifie 
+  qu'il n'y a pas besoin d'installer de logiciel. L’outil est versatile, 
+  flexible et peut incorporer des textes, images, médias sociaux, vidéos, audio et plus encore.",
     
 /* what we provide */
-  "weprovide" => "What we provide",
-  "weprovideinfo" => "Here's what you can expect when you partner up with us to use Live Blog",
-  "weprovide-title-a" => "We get you started",
-  "weprovide-info-a" => "You don't need any coding skills to start and run a
-    Live Blog project. We set you
-    up with short personal video training and
-    have a number of fun tutorials to get you started. We also offer
-    basic support throughout your project.",
-  "weprovide-title-b" => "We host your Live Blog",
-  "weprovide-info-b" => "Live Blog is hosted in the cloud and managed
-    (and paid for) by Sourcefabric. Generally, we
-    sign you up for six months' hosting. If your
-    project is longer, don't worry, tell us about it
-    and we'll see what we can do.",
-  "weprovide-title-c" => "We give you training",
-  "weprovide-info-c" => "With the &lt;FWD:media&gt; initiative,
-    Sourcefabric offers a basic support
-    package. This means a 2-4 hour start up
-    training, including basic live reporting
-    coaching if necessary.",
-  "weprovide-title-d" => "We follow you throughout",
-  "weprovide-info-d" => "Live Blog can be embedded in any website
-    easily. We will guide you throughout your
-    project. We breathe journalism and have
-    experience in supporting live reporting
-    worldwide.",
-  "weprovide-title-e" => "We make you part of our community",
-  "weprovide-info-e" => "Through our global community of partners,
-    we give you access to advice and experience from seasoned
-    organisations that can benefit all of us. We encourage discussion
-    and mutual support and seek to continuously refine
-    our software. We love hearing about
-    improvement ideas from all members of the
-    community.",
+  "weprovide" => "Ce que nous fournissons",
+  "weprovideinfo" => "Voici ce que vous pouvez vous attendre lorsque vous vous associez avec nous pour utiliser Live Blog",
+  "weprovide-title-a" => "Nous vous aidons à démarrer. ",
+  "weprovide-info-a" => "Vous n’avez pas besoin de 
+  compétences de codage pour démarrer et gérer 
+  un projet de Live Blog. Nous avons mis en place pour vous 
+  des courtes et amusantes vidéos de formation personnelle.
+  Nous offrons également une assistance de base tout au long de votre projet.",
+  "weprovide-title-b" => "Nous hébergeons votre Live Blog.",
+  "weprovide-info-b" => "    Live blog est hébergé dans le nuage et géré (et payé) par Sourcefabric. 
+  En général, nous vous inscrivons pour six mois d'hébergement. 
+  Si votre projet est de plus longue durée, ne vous inquiétez pas, 
+  informez nous et nous verrons ce que nous pouvons faire.",
+  "weprovide-title-c" => "Nous vous offrons la formation",
+  "weprovide-info-c" => "Avec l'initiative &lt;FWD:media&gt; Sourcefabric offre un programme 
+  d’assistance de base. Cela signifie une  formation de départ de 2-4 heures, 
+  incluant l’encadrement de base de reportages en direct, si nécessaire.",
+  "weprovide-title-d" => "Nous vous suivons tout au long du processus",
+  "weprovide-info-d" => "Live Blog peut être intégré facilement dans n'importe quel site web . 
+  Si nécessaire, nous vous guiderons tout au long de votre projet. 
+  Nous respirons le journalisme et avons une vaste expérience 
+  dans le soutien des reportages en direct dans le monde entier.",
+  "weprovide-title-e" => "Vous ferez partie de notre communauté",
+  "weprovide-info-e" => " Grâce à notre communauté mondiale de partenaires, 
+  vous pouvez bénéficier des conseils et de l’expérience de professionnels aguerris. 
+  Nous valorisons la discussion et le soutien mutuel 
+  et cherchons à peaufiner continuellement notre logiciel. 
+  Nous encourageons le partage des idées 
+  au sein de tous les membres de la communauté.",
   "weprovide-title-f" => "We help you shine",
   "weprovide-info-f" => "We will provide you with ideas and tips
     for increasing the visibility and outreach of your project. We
