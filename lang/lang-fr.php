@@ -3,7 +3,7 @@ $langid = "fr"; // the language short code for this version
 $lang[$langid] = array(
 
 /* Header */
-  "head-title" => "FR &lt;FWD:media&gt;",
+  "head-title" => "&lt;FWD:media&gt;",
   "head-claim" => "Ajouter des reportages en direct sur votre site.",
 
 /* what is live blog */
