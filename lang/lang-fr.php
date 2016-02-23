@@ -43,7 +43,7 @@ $lang[$langid] = array(
   Si votre projet est de plus longue durée, ne vous inquiétez pas, 
   informez nous et nous verrons ce que nous pouvons faire.",
   "weprovide-title-c" => "Nous vous offrons la formation",
-  "weprovide-info-c" => "Avec l'initiative &lt;FWD:media&gt; Sourcefabric offre un programme 
+  "weprovide-info-c" => "Avec l'initiative &lt;FWD:media&gt;, Sourcefabric offre un programme 
   d’assistance de base. Cela signifie une formation de départ de 2-4 heures, 
   incluant l’encadrement de base de reportages en direct, si nécessaire.",
   "weprovide-title-d" => "Nous vous suivons tout au long du processus",
@@ -66,7 +66,7 @@ $lang[$langid] = array(
   avec nos cercles d`intérêt communs.",
 
 /* what we do not provide */
-  "notprovide" => "What we do not offer <br/> within &lt;FWD:media&gt; *",
+  "notprovide" => "Ce qui n'est pas offert <br/> avec &lt;FWD:media&gt; *",
   "notprovideinfo" => "* N’hésitez pas à nous faire savoir pour autant si vous avez besoin de quelque chose d’extra! 
   Nous pouvons probablement vous aider. ",
   "notprovide-a" => "Un soutien financier ou des subventions",
