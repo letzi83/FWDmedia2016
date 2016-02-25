@@ -95,7 +95,7 @@ foreach($lang['universal'] as $key => $value) {
 								<li class="special">
 								  <li><a href="?"><?php echo $l['lang-en']; ?></a></li>
 								  <li><a href="?l=fr"><?php echo $l['lang-fr']; ?></a></li>
-								  <!--li><a href="?l=es"><?php echo $l['lang-es']; ?></a></li-->
+								  <li><a href="?l=es"><?php echo $l['lang-es']; ?></a></li>
 								</li>
 								<li class="special">
 									<a href="#menu" class="menuToggle"><span><?php echo $l['nav-menu']; ?></span></a>
