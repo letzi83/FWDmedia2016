@@ -4,203 +4,131 @@ $lang[$langid] = array(
 
 /* Header */
   "head-title" => "ES &lt;FWD:media&gt;",
-  "head-claim" => "Add live reporting to your site",
+  "head-claim" => "Agrega reportaje en vivo a tu sitio",
 
 /* what is live blog */
-  "sourcefabricsinitiative" => "Sourcefabric's &lt;FWD:media&gt; initiative provides<br/>
-    free live blogging services and support to a<br/>
-    selected number of independent web projects in<br/>
-    journalism and activism.",
-  "rumediaorg" => "Are you a media organisation or NGO working to integrate technology 
-    into a journalism or reporting project and looking for a live storytelling tool? 
-    We can outfit you with the technology for free and help you get started.",
-  "deadlinetxt" => "The first round of applications is open. Apply by 31 March 2016.",
-  "biglb4fm" => "Live Blog for <br/> &lt;FWD:media&gt;",
-  "biglb4fminfo" => "Live Blog helps journalists, reporters and<br>
-    organisations tell their stories as they unfold.",
-  "spotlight-a" => "Live Blog was developed to provide media organisations with a tool for
-    live reporting crisis or real-time events like natural disasters or breaking news. Whether from your desk or live from the event, 
-    you can update your live blog in real-time.",
-  "spotlight-b" => "Live Blog can be easily embedded in your website. Simply paste the
-    code and start spreading the news!",
-  "spotlight-c" => "Easy to use, Live Blog is web-based which means that there is no need to install
-    any software. It is versatile, flexible and can incorporate
-    text, images, social media, videos, audio and more.",
+  "sourcefabricsinitiative" => "La iniciativa &lt;FWD:media&gt; de Sourcefabric ofrece<br/>
+   servicios de live blogging y soporte gratuito a<br/>
+    un número selecto de proyectos independientes<br/>
+    de periodismo y activismo en línea.",
+  "rumediaorg" => "¿Perteneces a una organización u ONG trabajando para integrar la tecnología en proyectos periodísticos y buscas herramientas de narración en vivo? Podemos proveerte gratis la tecnología y ayuda necesaria para comenzar.",
+  "deadlinetxt" => "La primera ronda de aplicaciones está abierta. Aplica hasta el 31 de Marzo.",
+  "biglb4fm" => "Live Blog para <br/> &lt;FWD:media&gt;",
+  "biglb4fminfo" => "Live Blog ayuda a periodistas, reporteros y<br>
+    organizaciones a contar sus historias al tiempo que se desenvuelven.",
+  "spotlight-a" => "Live Blog ha sido desarrollado para dotar a organizaciones mediáticas con una herramienta de reportaje en vivo para crisis o eventos en tiempo real, como desastres naturales o noticias de última hora. Puedes actualizar tu live blog desde tu escritorio o en vivo desde el evento.",
+  "spotlight-b" => "Live Blog se puede incrustar fácilmente en tu página web. ¡Simplemente pega el código y comienza a distribuir tus noticias!",
+  "spotlight-c" => "Fácil de usar, Live Blog es una aplicación en línea, lo cual significa que no hay necesidad de instalar ningún otro programa. Es versátil, flexible, y puede incorporar texto, imágenes, medios sociales, vídeo, audio y más.",
     
 /* what we provide */
-  "weprovide" => "What we provide",
-  "weprovideinfo" => "Here's what you can expect when you partner up with us to use Live Blog",
-  "weprovide-title-a" => "We get you started",
-  "weprovide-info-a" => "You don't need any coding skills to start and run a
-    Live Blog project. We set you
-    up with short personal video training and
-    have a number of fun tutorials to get you started. We also offer
-    basic support throughout your project.",
-  "weprovide-title-b" => "We host your Live Blog",
-  "weprovide-info-b" => "Live Blog is hosted in the cloud and managed
-    (and paid for) by Sourcefabric. Generally, we
-    sign you up for six months' hosting. If your
-    project is longer, don't worry, tell us about it
-    and we'll see what we can do.",
-  "weprovide-title-c" => "We give you training",
-  "weprovide-info-c" => "With the &lt;FWD:media&gt; initiative,
-    Sourcefabric offers a basic support
-    package. This means a 2-4 hour start up
-    training, including basic live reporting
-    coaching if necessary.",
-  "weprovide-title-d" => "We follow you throughout",
-  "weprovide-info-d" => "Live Blog can be embedded in any website
-    easily. We will guide you throughout your
-    project. We breathe journalism and have
-    experience in supporting live reporting
-    worldwide.",
-  "weprovide-title-e" => "We make you part of our community",
-  "weprovide-info-e" => "Through our global community of partners,
-    we give you access to advice and experience from seasoned
-    organisations that can benefit all of us. We encourage discussion
-    and mutual support and seek to continuously refine
-    our software. We love hearing about
-    improvement ideas from all members of the
-    community.",
-  "weprovide-title-f" => "We help you shine",
-  "weprovide-info-f" => "We will provide you with ideas and tips
-    for increasing the visibility and outreach of your project. We
-    can help you develop your communication
-    strategy and share our networks for
-    outreach.",
+  "weprovide" => "Nuestra oferta",
+  "weprovideinfo" => "Esto es lo que puedes esperar cuando entremos en colaboración para usar Live Blog",
+  "weprovide-title-a" => "Te ayudamos a arrancar",
+  "weprovide-info-a" => "No necesitas saber programar para lanzar y operar un proyecto Live Blog. Nosotros te apoyamos a través de un breve video-curso personalizado, además de un número de divertidos tutoriales para que empieces. También ofrecemos soporte técnico básico durante tu proyecto.",
+  "weprovide-title-b" => "Hospedamos tu Live Blog",
+  "weprovide-info-b" => "Live Blog está hospedado en la nube y es manejado (y financiado) por Sourcefabric. En General te podemos hospedar hasta seis meses. Pero si necesitas más tiempo, no te preocupes, habla con nosotros y veremos lo que podemos hacer.",
+  "weprovide-title-c" => "Te ofrecemos entrenamiento",
+  "weprovide-info-c" => "Con la iniciativa &lt;FWD:media&gt; Sourcefabric ofrece un paquete de soporte básico. Esto significa 2 á 4 horas de entrenamiento inicial, incluyendo asesoría de reportaje en vivo, en caso de ser necesario.",
+  "weprovide-title-d" => "Damos seguimiento",
+  "weprovide-info-d" => "Live Blog puede insertarse fácilmente en cualquier página web. Si lo necesitas, te guiamos a través de tu proyecto. Respiramos periodismo, y contamos con una amplia experiencia apoyando el reportaje en vivo por todo el mundo.",
+  "weprovide-title-e" => "Ser parte de nuestra comunidad",
+  "weprovide-info-e" => "A través de nuestra comunidad global de colaboradores, te proporcionamos acceso a asesorías y conocimiento proveniente de organizaciones con experiencia. Alentamos el diálogo y el apoyo mutuo, y continuamente buscamos mejorar nuestro software. Nos encanta escuchar ideas para mejorar nuestros productos por parte de todos los miembros de nuestra comunidad.",
+  "weprovide-title-f" => "Te ayudamos a sobresalir",
+  "weprovide-info-f" => "Te ofrecemos ideas y consejos para aumentar la visibilidad y el alcance de tu proyecto. Te podemos ayudar a desarrollar tu estrategia de comunicación y compartiremos contigo la extensión de nuestras propias redes.",
 
 /* what we do not provide */
-  "notprovide" => "What we do not offer <br/> within &lt;FWD:media&gt; *",
-  "notprovideinfo" => "* If you are in need of any of the above, feel free to ask us! We might be able to advise you.",
-  "notprovide-a" => "Financial support or grants",
-  "notprovide-b" => "Travel expenses",
-  "notprovide-c" => "Tech equipment",
-  "notprovide-d" => "New software features",
-  "notprovide-e" => "Website redesign",
+  "notprovide" => "Lo que no ofrecemos <br/> dentro de &lt;FWD:media&gt; *",
+  "notprovideinfo" => "* Si necesitas algo de esto, ¡habla con nosotros! Tal vez podemos orientarte.",
+  "notprovide-a" => "Soporte económico o becas",
+  "notprovide-b" => "Gastos de viaje",
+  "notprovide-c" => "Equipo técnico",
+  "notprovide-d" => "Nuevas funciones en el software",
+  "notprovide-e" => "Rediseño de páginas web",
 
 /* who can apply */
-  "whoapply" => "Who should apply",
-  "whoapplyinfo" => "We want to work with all of you, but unfortunately we have to limit our scope by
-    putting forth a few requirements. Here's a checklist to see if we're a good match.",
-  "whoapply-a" => "You have a journalistic or nonprofit project.
-    We offer you a new collaborative storytelling tool to report live events
-    or projects from the field. We’d like to see
-    that you’ve thought about whether there’s a genuine
-    match between Live Blog and your project and have a
-    solid argument for why Live Blog can help.",
-  "whoapply-b" => "You're working on the topics of independent media,
-    social change, youth empowerment or humanitarian aid. These are the areas where 
-    we’d like to focus our efforts. If you are working
-    on another type of social change project, please get in
-    touch with us directly to talk more about possible
-    avenues of support.",
-  "whoapply-c" => "How long has your project or organisation been running?
-    It's not always a problem if you're brand new, but it helps
-    if we can see some proof that you are sustainable.",
-  "whoapply-d" => "You are committed to actively using Live Blog for your
-    project and have already allocated human and
-    technical resources to produce content to feed the
-    (blog)s.",
-  "whoapply-e" => "You are willing to share your Live Blog experience
-    with us. We are interested in telling your story and sharing your
-    testimonial on how live reporting benefits your work.",
-  "whoapplybottominfo" => "Check, check, check, check? It's a match!
-    If that still sounds good, apply now.",
+  "whoapply" => "Quién debiera aplicar",
+  "whoapplyinfo" => "Nos encantaría trabajar con todos, desafortunadamente tenemos que establecer límites en forma de requerimientos. 
+  A continuación encontrarás la lista para ver si encuadramos con tu proyecto.",
+  "whoapply-a" => "Tienes un proyecto periodístico o sin ánimo de lucro. Te ofrecemos una nueva herramienta de narración colaborativa para reportar eventos en vivo o proyectos de campo. Nos gustaría ver que realmente has pensado si Live Blog encuadra con tu proyecto y que tienes argumentos sólidos de cómo Live Blog te puede ayudar.",
+  "whoapply-b" => "Tu trabajo trata sobre temas como medios independientes, cambio social, empoderamiento de la juventud o ayuda humanitaria. Estas son áreas en las que deseamos concentrarnos. Si trabajas sobre otro tipo de proyecto social, ponte en contacto directamente con nosotros para platicar sobre posibilidades de apoyo.",
+  "whoapply-c" => "¿Cuánto tiempo tiene tu proyecto u organización? No siempre es un problema si eres nuevo, pero ayuda si podemos ver alguna prueba de que tu proyecto es sustentable.",
+  "whoapply-d" => "Deseas comprometerte a usar Live Blog para tu proyecto y cuentas con los recursos humanos y técnicos necesarios para producir el contenido y alimentar tu(s) blog(s). ",
+  "whoapply-e" => "Tienes la disponibilidad de compartirnos tu experiencia de Live Blog. Nos interesa contar tu historia y compartir tu testimonio de cómo el reportaje en vivo beneficia tu trabajo.",
+  "whoapplybottominfo" => "¿Afirmativo, afirmativo, afirmativo, afirmativo? ¡Encuadra! Si aún tienes interés, aplica ahora.",
     
-  "applynow" => "Apply now",
-  "applynowinfo" => "If you made it this far and still think we could work well together,
-    fill in our application form. If you have further questions, see our FAQs or get in touch.",
+  "applynow" => "Aplica ahora",
+  "applynowinfo" => "Si has llegado hasta aquí y piensas que podemos entrar en colaboración, llena nuestra solicitud. Si tienes preguntas, checa nuestra sección de preguntas frecuentes.",
 
 /* FAQ */
-  "faq" => "Frequently asked questions",
-  "faqinfo" => "Here are the answers to a few key questions you may have. Don't see
-  what you're looking for? Need more support? Get in touch!",
+  "faq" => "Preguntas frecuentes",
+  "faqinfo" => "En esta sección encontrarás respuestas a algunas preguntas claves que pudieras tener. Si no encuentras lo que buscas o necesitas ayuda, ¡ponte en contacto!",
 
 /* contact */
-  "bottomcontact" => "Contact us",
-  "bottomcontactinfo" => "Still have questions? Contact us at <a href='mailto:fwdmedia@sourcefabric.org'>fwdmedia@sourcefabric.org</a>",
-  "bottomcontact-title-a" => "Find us on other channels",
-  "bottomcontact-info-a" => "Visit our 
-    <a href='https://www.sourcefabric.org/' target='_blank'>website</a>
-    to learn more about Sourcefabric.
-    Follow us on 
+  "bottomcontact" => "Entra en contacto",
+  "bottomcontactinfo" => "¿Aún tienes preguntas? Contáctanos en <a href='mailto:fwdmedia@sourcefabric.org'>fwdmedia@sourcefabric.org</a>",
+  "bottomcontact-title-a" => "Encuentrános en otros canales",
+  "bottomcontact-info-a" => "Visita nuestra 
+    <a href='https://www.sourcefabric.org/' target='_blank'>página web</a>
+    para conocer más acerca de Sourcefabric. Síguenos en
     <a href='http://twitter.com/sourcefabric' target='_blank'>twitter</a>
-    for our thoughts on open
-    source, journalism and innovation.",
-  "bottomcontact-title-b" => "Join our mailing list",
-  "bottomcontact-info-b" => "We'll send you updates about our work in a monthly
-    newsletter. We won't share your email address, we promise. <a href='http://eepurl.com/668U' target='_blank'>Sign up now.</a>",
+    sobre nuestras ideas acerca del código abierto, periodismo e innovación.",
+  "bottomcontact-title-b" => "Subscribete a nuestra lista de correos",
+  "bottomcontact-info-b" => "Te mantendremos al tanto de nuestro trabajo mensualmente a través de nuestro boletín informativo. Y te prometemos no compartir tu correo electrónico con nadie. <a href='http://eepurl.com/668U' target='_blank'>Suscríbete ahora.</a>",
   
 /* Buttons */
-  "btn-applynow" => "Apply now",
-  "btn-applynowlink" => "Open application form",
-  "btn-more" => "Learn more",
-  "btn-checklb" => "Learn more about Live Blog.",
+  "btn-applynow" => "Aplica ahora",
+  "btn-applynowlink" => "Formulario de solicitud",
+  "btn-more" => "Más información",
+  "btn-checklb" => "Conoce más sobre Live Blog.",
 
 /* Navigation */
-  "nav-menu" => "Menu",
-  "nav-home" => "Home",
-  "nav-start" => "What we offer",
-  "nav-lbabout" => "What is live blogging?",
-  "nav-what" => "What we provide",
-  "nav-who" => "Who should apply",
-  "nav-apply" => "Apply now",
-  "nav-faq" => "FAQ",
-  "nav-contact" => "Contact us",
+  "nav-menu" => "Menú",
+  "nav-home" => "Inicio",
+  "nav-start" => "Lo que ofrecemos",
+  "nav-lbabout" => "¿Qué es live blogging?",
+  "nav-what" => "Nuestra oferta",
+  "nav-who" => "Quién puede aplicar",
+  "nav-apply" => "Aplica ahora",
+  "nav-faq" => "Preguntas frecuentes",
+  "nav-contact" => "Entra en contacto",
 
 /* metatags */
-  "meta-title-tag" => "Add live reporting to your site. FWD:media",
-  "meta-copyright" => "FWD:media by Sourcefabric",
+  "meta-title-tag" => "Agrega reportaje en vivo a tu sitio. FWD:media",
+  "meta-copyright" => "FWD:media por Sourcefabric",
   "meta-author" => "Sourcefabric",
-  "meta-title" => "Add live reporting to your site. Apply now.",
-  "meta-description" => "Sourcefabric's FWD:media initiative provides free live blogging services and support to a selected number of independent web projects in journalism and activism."
+  "meta-title" => "Agrega reportaje en vivo a tu sitio. Aplica ahora.",
+  "meta-description" => "La iniciativa FWD:media de Sourcefabric ofrece servicios de live blogging y soporte gratuito a un número selecto de proyectos independientes de periodismo y activismo en línea.."
 
 );
 
 /* FAQ items */
 $lang[$langid]['arrays']['faq'][] = array(
-  "q" => "Q: What is FWD:Media?",
-  "a" => "A: &lt;FWD:media&gt; (read \"forward media\") is a media development iniative by Sourcefabric. Launched in 
-    2016, it's aim is to give publicity to Sourcefabric's work in supporting independent media initiatives worldwide."
+  "q" => "P: ¿Qué es FWD:media?",
+  "a" => "R: &lt;FWD:media&gt; (del inglés \"forward media\") es una iniciativa de Sourcefabric para el desarrollo de los medios. Lanzada en el 2016, su objetivo es promover la labor de apoyo por parte de Sourcefabric a iniciativas de medios independientes a nivel mundial."
 );
 $lang[$langid]['arrays']['faq'][] = array(
-  "q" => "Q: What is Sourcefabric?",
-  "a" => "A: Founded in 2010, Sourcefabric is a nonprofit rganisation based in the Czech Republic. Our mission is to 
-    empower quality journalism worldwide through software development and services. All our software is open source. You can
-    find more information about our mission, history and software on our <a href='https://www.sourcefabric.org/' target='_blank'>website</a>."
+  "q" => "P: Qué es Sourcefabric?",
+  "a" => "R: Fundada en el 2010, Sourcefabric es una institución no lucrativa basada en República Checa. Nuestra misión es el empoderamiento del periodismo de calidad en todo el mundo a través del desarrollo de software y servicios. Nuestro software está en código abierto. En nuestra <a href='https://www.sourcefabric.org/' target='_blank'>página web</a> encontrarás más información sobre nuestra misión, historia y software."
 );
 $lang[$langid]['arrays']['faq'][] = array(
-  "q" => "Q: My organisation has nothing to do with media, can I still apply?",
-  "a" => "A: Yes. &lt;FWD:media&gt; is open to any organisation or project. While Live Blog was developed with news organisations in mind,
-    it has also been used by NGOs to report on their field work or by institutions to report on big events and conferences.
-    We hope that you'll find even more creative ways to put Live Blog to use."
+  "q" => "P: Mi organización no tiene que ver con medios, ¿de cualquier modo puedo aplicar?",
+  "a" => "R: Sí. &lt;FWD:media&gt; está abierta a todo tipo de organización o proyecto. A pesar de que Live Blog ha sido desarrollado para organizaciones periodísticas, también ha sido utilizado por ONGs para reportar sobre trabajo de campo, o por otras instituciones para cubrir grandes eventos y conferencias. Esperamos que descubras nuevas formas de usar Live Blog."
 );
 $lang[$langid]['arrays']['faq'][] = array(
-  "q" => "Q: What are a few examples of similar project you have supported in the past?",
-  "a" => "A: We have experience working with a wide range of projects. We've worked with large media organisations using Live
-    Blog to cover breaking news or current events, informal groups of freelancers looking to tailor their global/local
-    reporting and organisations looking for a solution to crisis reporting from the ground."
+  "q" => "P: ¿Cuáles son algunos ejemplos de proyectos similares que han apoyado en el pasado?",
+  "a" => "R: Tenemos experiencia trabajando con una amplia gama de proyectos, desde organizaciones mediáticas grandes usando Live Blog para cubrir noticias de última hora y últimos acontecimientos, grupos informales de trabajadores freelance buscando confeccionar sus reportajes globales/locales, y organizaciones buscando soluciones para reportar crisis desde el campo."
 );
 $lang[$langid]['arrays']['faq'][] = array(
-  "q" => "Q: How long is the review process? When will I know the results?",
-  "a" => "A:  Our team will review your application and respond within two weeks following the deadline. 
-    There will be at least four rounds of applications in 2016 and you're welcome to apply again if your
-    organisation/project didn't qualify the first time."
+  "q" => "P: ¿Cuánto tiempo tarda el proceso de admisión? ¿Cuándo sabré los resultados?",
+  "a" => "R: Nuestro equipo revisará tu aplicación y responderá dentro de las siguientes dos semanas pasada la fecha límite. Habrá al menos cuatro rondas para aplicar en el 2016, y estás bienvenido a aplicar de nuevo si tu organización o proyecto no ha calificado la primera vez."
 );
 $lang[$langid]['arrays']['faq'][] = array(
-  "q" => "Q: What is the time period for project implementation?",
-  "a" => "A: Setting up Live Blog takes no more than five minutes. You might need more time to organise your
-    resources and receive training, but all in all, you should be fully up and running within a week or two. The length of time we work with
-    a selected project will vary, but you should expect this to be a 6 to 12 month commitment at most. If your project
-    could continue to benefit from our support and engagement we are open to extending collaboration outside of this
-    call timespan."
+  "q" => "P: ¿Cuál es el período para la implementación del proyecto?",
+  "a" => "R: Instalar Live Blog no lleva más de cinco minutos. Es posible que necesites más tiempo para organizar tus recursos y recibir entrenamiento, pero con todo y todo, deberás estar listo dentro de una semana o dos. La duración de la colaboración con los proyectos seleccionados puede variar, sin embargo será de entre 6 y 12 meses. Si tu proyecto se viera beneficiado por una extensión de este período de tiempo, estaríamos dispuestos a considerarlo."
 );
 $lang[$langid]['arrays']['faq'][] = array(
-  "q" => "Q: What kind of financial support do you offer?",
-  "a" => "A: There are no grants or financial support included in this initiative. Our version of financial support comes in the form 
-  of access to a professional tool (Live Blog) with free managed hosting and access to one-on-one support.
-  If you are in need of additional financial support, would you be willing to apply for joint funding with us? Joint funding is a win-win
-  situation: both sides benefit. We can work with you to locate and apply for the right kind of grants."
+  "q" => "P: ¿Qué tipo de apoyo económico ofrecen?",
+  "a" => "R: No ofrecemos ningún tipo de apoyo económico o beca en esta iniciativa. Nuestra versión de apoyo económico se limita al acceso de una herramienta profesional (Live Blog) con hospedaje administrado y acceso a soporte técnico personalizado. Si necesitas soporte económico adicional, ¿tendrías la disponibilidad de aplicar para un co-financiamiento con nosotros? El financiamiento en conjunto es una situación en la ambos partidos se benefician. Podemos trabajar contigo para encontrar y aplicar al tipo adecuado de becas."
 );
 
 
