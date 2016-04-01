@@ -263,14 +263,14 @@ foreach($lang['universal'] as $key => $value) {
 						</div>
 					</section>
 					
-				<!-- contact form-->
+				<!-- application-->
 					<section id="applynow" class="special wrapper style3">
 						<div class="inner narrow">
   						<h2><?php echo $l['applynow']; ?></h2>
   						<p><?php echo $l['applynowinfo']; ?></p>
-							<ul class="actions">
+							<?php /*<ul class="actions">
 								<li><a href="<?php echo $l['btn-applynowlinkurl']; ?>" target="_blank" class="button special"><?php echo $l['btn-applynowlink']; ?></a></li>
-							</ul>
+							</ul>*/ ?>
   				  </div>
 					</section>
 
