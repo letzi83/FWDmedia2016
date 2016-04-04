@@ -12,7 +12,7 @@ $lang[$langid] = array(
     un número selecto de proyectos independientes<br/>
     de periodismo y activismo en línea.",
   "rumediaorg" => "¿Perteneces a una organización u ONG trabajando para integrar la tecnología en proyectos periodísticos y buscas herramientas de narración en vivo? Podemos proveerte gratis la tecnología y ayuda necesaria para comenzar.",
-  "deadlinetxt" => "La primera ronda de aplicaciones está abierta. Aplica hasta el 31 de Marzo.",
+  "deadlinetxt" => "La primera ronda de aplicaciones está cerrada. La 2ª ronda abrirá en Mayo del 2016. Entretanto, puedes ver los resultados de la 1ª ronda.",
   "biglb4fm" => "Live Blog para <br/> &lt;FWD:media&gt;",
   "biglb4fminfo" => "Live Blog ayuda a periodistas, reporteros y<br>
     organizaciones a contar sus historias al tiempo que se desenvuelven.",
@@ -56,8 +56,8 @@ $lang[$langid] = array(
   "whoapply-e" => "Tienes la disponibilidad de compartirnos tu experiencia de Live Blog. Nos interesa contar tu historia y compartir tu testimonio de cómo el reportaje en vivo beneficia tu trabajo.",
   "whoapplybottominfo" => "¿Afirmativo, afirmativo, afirmativo, afirmativo? ¡Encuadra! Si aún tienes interés, aplica ahora.",
     
-  "applynow" => "Aplica ahora",
-  "applynowinfo" => "Si has llegado hasta aquí y piensas que podemos entrar en colaboración, llena nuestra solicitud. Si tienes preguntas, checa nuestra sección de preguntas frecuentes.",
+  "applynow" => "Aplicaciones",
+  "applynowinfo" => "La primera ronda de aplicaciones está cerrada. La 2ª ronda abrirá en Mayo del 2016. Regresa! Entretanto, puedes ver los resultados de la 1ª ronda. Si tienes preguntas, checa nuestra sección de preguntas frecuentes.",
 
 /* FAQ */
   "faq" => "Preguntas frecuentes",
@@ -76,8 +76,8 @@ $lang[$langid] = array(
   "bottomcontact-info-b" => "Te mantendremos al tanto de nuestro trabajo mensualmente a través de nuestro boletín informativo. Y te prometemos no compartir tu correo electrónico con nadie. <a href='http://eepurl.com/668U' target='_blank'>Suscríbete ahora.</a>",
   
 /* Buttons */
-  "btn-applynow" => "Aplica ahora",
-  "btn-applynowlink" => "Formulario de solicitud",
+  "btn-applynow" => "Ganadores de la 1ª ronda",
+  "btn-applynowlink" => "Ganadores de la 1ª ronda",
   "btn-more" => "Más información",
   "btn-checklb" => "Conoce más sobre Live Blog.",
 
@@ -88,7 +88,7 @@ $lang[$langid] = array(
   "nav-lbabout" => "¿Qué es live blogging?",
   "nav-what" => "Nuestra oferta",
   "nav-who" => "Quién puede aplicar",
-  "nav-apply" => "Aplica ahora",
+  "nav-apply" => "Aplicaciones",
   "nav-faq" => "Preguntas frecuentes",
   "nav-contact" => "Entra en contacto",
 
@@ -96,7 +96,7 @@ $lang[$langid] = array(
   "meta-title-tag" => "Agrega reportaje en vivo a tu sitio. FWD:media",
   "meta-copyright" => "FWD:media por Sourcefabric",
   "meta-author" => "Sourcefabric",
-  "meta-title" => "Agrega reportaje en vivo a tu sitio. Aplica ahora.",
+  "meta-title" => "Agrega reportaje en vivo a tu sitio.",
   "meta-description" => "La iniciativa FWD:media de Sourcefabric ofrece servicios de live blogging y soporte gratuito a un número selecto de proyectos independientes de periodismo y activismo en línea.."
 
 );
