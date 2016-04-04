@@ -13,7 +13,7 @@ $lang[$langid] = array(
   "rumediaorg" => "Êtes-vous une organisation de média ou une ONG cherchant à incorporer des technologies 
   dans un projet journalistique ou de reportage et à la recherche d’un outil de narration en direct? 
   Nous pouvons vous offrir gratuitement la technologie qui vous permettra de démarrer.",
-  "deadlinetxt" => "Le premier tour d’applications est ouvert. Postuler avant le 31 Mars 2016.",
+  "deadlinetxt" => "Le premier tour d’applications est maintenant fermé. Le deuxième tour ouvrirà en mai 2016. Regarde les gagneurs du premier tour!",
   "biglb4fm" => "Live Blog pour <br/> &lt;FWD:media&gt;",
   "biglb4fminfo" => "Live Blog aide les journalistes, les reporters et<br>
    les organisations à raconter leurs actualités en temps réel.",
@@ -101,11 +101,10 @@ $lang[$langid] = array(
   Nous sommes intéressés à raconter votre histoire et à partager votre témoignage 
   sur la façon dont l'information en direct peut bénéficier à votre travail.",
   "whoapplybottominfo" => "Cocher, cocher, cocher, cocher? 
-  Si tout concorde, postulez dès maintenant!",
+  Si tout concorde, postulez!",
     
-  "applynow" => "Inscrivez-vous maintenant",
-  "applynowinfo" => "Si vous êtes arrivés jusque là et vous croyez 
-  que nous pouvons travailler ensemble, remplissez notre formulaire de demande. 
+  "applynow" => "Inscriptions",
+  "applynowinfo" => "Le premier tour d’applications est maintenant fermé. Le deuxième tour ouvrirà en mai 2016. Regarde les gagneurs du premier tour!
   Si vous avez d'autres questions, consultez notre liste des questions 
   fréquemment posées ou contactez-nous.",
 
@@ -129,9 +128,8 @@ $lang[$langid] = array(
 <a href='http://eepurl.com/668U' target='_blank'>Abonnez-vous.</a>",
   
 /* Buttons */
-  "btn-applynow" => "Inscrivez-vous maintenant",
-  "btn-applynowlink" => "Ouvrez le formulaire d’inscription <br/>
-  (English Only)",
+  "btn-applynow" => "Gagneurs du premier tour",
+  "btn-applynowlink" => "Gagneurs du premier tour",
   "btn-more" => "En apprendre plus",
   "btn-checklb" => "Suivez ce lien pour en apprendre plus sur Live Blog.",
 
@@ -142,7 +140,7 @@ $lang[$langid] = array(
   "nav-lbabout" => "Qu'est-ce que le blogging en direct?",
   "nav-what" => "Ce que nous fournissons",
   "nav-who" => "Qui devrait s’inscrire",
-  "nav-apply" => "Inscrivez-vous maintenant",
+  "nav-apply" => "Inscriptions",
   "nav-faq" => "FAQ",
   "nav-contact" => "Contactez-nous",
 
@@ -150,7 +148,7 @@ $lang[$langid] = array(
   "meta-title-tag" => "Ajouter des reportages en direct sur votre site. FWD:media",
   "meta-copyright" => "FWD:media de Sourcefabric",
   "meta-author" => "Sourcefabric",
-  "meta-title" => "Ajouter des reportages en direct sur votre site. Inscrivez-vous maintenant.",
+  "meta-title" => "Ajouter des reportages en direct sur votre site.",
   "meta-description" => "L’initiative <FWD:media> de Sourcefabric a pour objectif de fournir un service gratuit de 
   blog en direct et de soutenir un nombre limité de projets web journalistiques et activistes indépendants."
 
