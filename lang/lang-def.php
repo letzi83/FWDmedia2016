@@ -107,9 +107,8 @@ $lang[$langid] = array(
   "whoapplybottominfo" => "Check, check, check, check? It's a match!
     If that still sounds good, apply now.",
     
-  "applynow" => "Apply now",
-  "applynowinfo" => "If you made it this far and still think we could work well together,
-    fill in our application form. If you have further questions, see our FAQs or get in touch.",
+  "applynow" => "Applications",
+  "applynowinfo" => "The first round of applications is now closed. Round 2 will open in May 2016. Come back! Meanwhile, you can see the winners of Round 1. If you have further questions, see our FAQs or get in touch.",
 
 /* FAQ */
   "faq" => "Frequently asked questions",
@@ -132,8 +131,8 @@ $lang[$langid] = array(
     newsletter. We won't share your email address, we promise. <a href='http://eepurl.com/668U' target='_blank'>Sign up now.</a>",
   
 /* Buttons */
-  "btn-applynow" => "Apply now",
-  "btn-applynowlink" => "Open application form",
+  "btn-applynow" => "Winners Round 1",
+  "btn-applynowlink" => "Winners Round 1",
   "btn-more" => "Learn more",
   "btn-checklb" => "Learn more about Live Blog.",
 
