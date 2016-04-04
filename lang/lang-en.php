@@ -14,7 +14,7 @@ $lang[$langid] = array(
   "rumediaorg" => "Are you a media organisation or NGO working to integrate technology 
     into a journalism or reporting project and looking for a live storytelling tool? 
     We can outfit you with the technology for free and help you get started.",
-  "deadlinetxt" => "The first round of applications is open. Apply by 31 March 2016.",
+  "deadlinetxt" => "The first round of applications is now closed. Round 2 will open in May 2016. Meanwhile, you can see the winners of Round 1.",
   "biglb4fm" => "Live Blog for <br/> &lt;FWD:media&gt;",
   "biglb4fminfo" => "Live Blog helps journalists, reporters and<br>
     organisations tell their stories as they unfold.",
@@ -105,11 +105,10 @@ $lang[$langid] = array(
     with us. We are interested in telling your story and sharing your
     testimonial on how live reporting benefits your work.",
   "whoapplybottominfo" => "Check, check, check, check? It's a match!
-    If that still sounds good, apply now.",
+    If that still sounds good, apply.",
     
-  "applynow" => "Apply now",
-  "applynowinfo" => "If you made it this far and still think we could work well together,
-    fill in our application form. If you have further questions, see our FAQs or get in touch.",
+  "applynow" => "Applications",
+  "applynowinfo" => "The first round of applications is now closed. Round 2 will open in May 2016. Come back! Meanwhile, you can see the winners of Round 1. If you have further questions, see our FAQs or get in touch.",
 
 /* FAQ */
   "faq" => "Frequently asked questions",
@@ -132,8 +131,8 @@ $lang[$langid] = array(
     newsletter. We won't share your email address, we promise. <a href='http://eepurl.com/668U' target='_blank'>Sign up now.</a>",
   
 /* Buttons */
-  "btn-applynow" => "Apply now",
-  "btn-applynowlink" => "Open application form",
+  "btn-applynow" => "Winners Round 1",
+  "btn-applynowlink" => "Winners Round 1",
   "btn-more" => "Learn more",
   "btn-checklb" => "Learn more about Live Blog.",
 
@@ -152,7 +151,7 @@ $lang[$langid] = array(
   "meta-title-tag" => "Add live reporting to your site. FWD:media",
   "meta-copyright" => "FWD:media by Sourcefabric",
   "meta-author" => "Sourcefabric",
-  "meta-title" => "Add live reporting to your site. Apply now.",
+  "meta-title" => "Add live reporting to your site.",
   "meta-description" => "Sourcefabric's FWD:media initiative provides free live blogging services and support to a selected number of independent web projects in journalism and activism."
 
 );
